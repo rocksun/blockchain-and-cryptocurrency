@@ -1,0 +1,10 @@
+= 区块链与加密货币: 构建公平社会的基础
+Sun Dai Jun<daijun@gmail.com>
+:revnumber: v0.1
+:revdate: 21.03.2018
+:revremark: First draft
+:toc:
+
+include::preface.asciidoc[]
+
+include::bitcoin.asciidoc[]
